@@ -7,9 +7,6 @@ theme:
     - scheme: slate # 夜间模式
       primary: indigo
       accent: orange
-      toggle:
-        icon: material/weather-sunny
-        name: 切换至日间模式
   features:
     - navigation.tabs
     - navigation.top
