@@ -1,2 +1,39 @@
-site_name: My Docs
-theme: material
+site_name: 我爱OS
+theme: 
+  name: material
+  palette:
+    - scheme: default # 日间模式
+      primary: indigo # 上方的
+      accent: orange # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+  language: zh
+
+nav:
+  - 算法打卡: http://alg.haohaha.cn
+  - 数学笔记: http://math.haohaha.cn
+  - 英语笔记: http://eng.haohaha.cn \
+  - CS笔记: http://cs.haohaha.cn
+  - 我爱OS: 
+    - Home: index.md
+    - 操作系统真象还原: 
+      - Intro: mkOS/intro.md
+      - 第1章 部署工作环境: mkOS/1.md
+      - 第2章 编写MBR主引导记录: mkOS/2.md
+      - 第3章 完善MBR: mkOS/3.md
+  - 闲聊波尔卡: http://chat.haohaha.cn 
+
