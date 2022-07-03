@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+这是目前主要学习的方向～
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+暑假计划将《操作系统真象还原》学习并实现完，
 
-## Commands
+这里的笔记并非照搬书里内容，而主要记载实现过程的重难点以及解决方案。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+实验环境： 
+    OS: ubuntu 20.04 Desktop LTS 
+    CPU: Pentium(R) Dual-Core CPU E6500 @ 2.93GHz × 2
+    Memory: 8GB DDR3
 
-## Project layout
+大概率每日更新，欢迎喜欢OS的小伙伴与我交流！
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+电邮: 1259203802@qq.com
+QQ: 1259203802
+(目前还没开TG，如果您想通过TG或其他网络通信方式与我交流，请发给我邮件，非常感谢！）
