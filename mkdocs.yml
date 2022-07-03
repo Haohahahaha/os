@@ -36,4 +36,5 @@ nav:
       - 第2章 编写MBR主引导记录: mkOS/2.md
       - 第3章 完善MBR: mkOS/3.md
   - 闲聊波尔卡: http://chat.haohaha.cn 
-
+extra_css:
+  - mkdocs/css/no-footer.css # 不使用底部的翻页
