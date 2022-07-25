@@ -50,7 +50,7 @@ nav:
 #     - 第14章 文件系统: mkOS/14.md
 #     - 第15章 系统交互: mkOS/15.md
 #     - 后序: mkOS/16.md
-	- Linux内核完全详解:
+    - Linux内核完全详解:
 	  - 第1章 概述: linux-kernel-learning/1.md
       - 第2章 Linux内核体系结构: linux-kernel-learning/2.md 
       - 第3章 内核引导启动程序: linux-kernel-learning/3.md
