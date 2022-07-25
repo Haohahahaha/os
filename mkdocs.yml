@@ -32,24 +32,29 @@ nav:
   - CS笔记: http://cs.haohaha.cn
   - 我爱OS: 
     - Home: index.md
-    - 操作系统真象还原: 
-      - Intro: mkOS/intro.md
-      - 第1章 部署工作环境: mkOS/1.md
-      - 第2章 编写MBR主引导记录: mkOS/2.md
-      - 第3章 完善MBR: mkOS/3.md
-      - 第4章 保护模式入门: mkOS/4.md
-      - 第5章 保护模式进阶，向内核迈进: mkOS/5.md
-      - 第6章 完善内核: mkOS/6.md
-      - 第7章 中断: mkOS/7.md
-      - 第8章 内存管理系统: mkOS/8.md
-      - 第9章 线程: mkOS/9.md
-      - 第10章 输入输出系统: mkOS/10.md
-      - 第11章 用户进程: mkOS/11.md
-      - 第12章 进一步完善内核: mkOS/12.md
-      - 第13章 编写硬盘驱动程序: mkOS/13.md
-      - 第14章 文件系统: mkOS/14.md
-      - 第15章 系统交互: mkOS/15.md
-      - 后序: mkOS/16.md
+#   - 操作系统真象还原: 
+#     - Intro: mkOS/intro.md
+#     - 第1章 部署工作环境: mkOS/1.md
+#     - 第2章 编写MBR主引导记录: mkOS/2.md
+#     - 第3章 完善MBR: mkOS/3.md
+#     - 第4章 保护模式入门: mkOS/4.md
+#     - 第5章 保护模式进阶，向内核迈进: mkOS/5.md
+#     - 第6章 完善内核: mkOS/6.md
+#     - 第7章 中断: mkOS/7.md
+#     - 第8章 内存管理系统: mkOS/8.md
+#     - 第9章 线程: mkOS/9.md
+#     - 第10章 输入输出系统: mkOS/10.md
+#     - 第11章 用户进程: mkOS/11.md
+#     - 第12章 进一步完善内核: mkOS/12.md
+#     - 第13章 编写硬盘驱动程序: mkOS/13.md
+#     - 第14章 文件系统: mkOS/14.md
+#     - 第15章 系统交互: mkOS/15.md
+#     - 后序: mkOS/16.md
+	- Linux内核完全详解:
+	  - 第1章 概述: linux-kernel-learning/1.md
+      - 第2章 Linux内核体系结构: linux-kernel-learning/2.md 
+      - 第3章 内核引导启动程序: linux-kernel-learning/3.md
+      - 第4章 内核初始化过程: linux-kernel-learning/4.md
   - 闲聊波尔卡: http://chat.haohaha.cn 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
