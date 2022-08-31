@@ -32,9 +32,9 @@ nav:
   - CS笔记: http://cs.haohaha.cn
   - 我爱OS: 
     - Home: index.md
-  - 操作系统真象还原: 
-    - Intro: mkOS/intro.md
-#     - 第1章 部署工作环境: mkOS/1.md
+    - 操作系统真象还原: 
+      - Intro: mkOS/intro.md
+      - 第1章 部署工作环境: mkOS/1.md
 #     - 第2章 编写MBR主引导记录: mkOS/2.md
 #     - 第3章 完善MBR: mkOS/3.md
 #     - 第4章 保护模式入门: mkOS/4.md
