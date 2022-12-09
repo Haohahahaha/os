@@ -31,8 +31,8 @@ nav:
   - 英语笔记: http://eng.haohaha.cn
   - CS笔记: http://cs.haohaha.cn
   - 我爱OS: 
-#   - Home: index.md
-    - Home: 置办家具.md
+    - Home: index.md
+    - 家具: 置办家具.md
     - 操作系统真象还原: 
       - Intro: mkOS/intro.md
       - 第1章 部署工作环境: mkOS/1.md
