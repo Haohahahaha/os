@@ -6,7 +6,7 @@
 
 - OS: `Ubuntu 20.04.4 LTS`
 
-- VMWare: `2 cores, 6GB Memory`
+- VMWare: `8 cores, 8GB Memory`
 
 <!--
 
