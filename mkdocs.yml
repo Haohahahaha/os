@@ -27,11 +27,9 @@ theme:
 
 nav:
   - 主页: http://haohaha.cn
-  - 算法打卡: http://alg.haohaha.cn
-  - 数学笔记: http://math.haohaha.cn
-  - 英语笔记: http://eng.haohaha.cn
   - CS笔记: http://cs.haohaha.cn
-  - 我爱OS: 
+  - 闲聊波尔卡: http://chat.haohaha.cn 
+  - OS学习: 
     - Home: index.md
 #   - 家具: 置办家具.md
 #   - 操作系统真象还原: 
@@ -57,7 +55,10 @@ nav:
 #     - 第2章 Linux内核体系结构: linux-kernel-learning/2.md 
 #     - 第3章 内核引导启动程序: linux-kernel-learning/3.md
 #     - 第4章 内核初始化过程: linux-kernel-learning/4.md
-  - 闲聊波尔卡: http://chat.haohaha.cn 
+  - 算法打卡: http://alg.haohaha.cn
+  - 数学笔记: http://math.haohaha.cn
+  - 英语笔记: http://eng.haohaha.cn
+
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
 extra:
