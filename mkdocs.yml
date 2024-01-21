@@ -35,6 +35,8 @@ nav:
     - uCore 笔记: 
       - ucore/notes/index.md
       - Lab3 虚拟内存管理: ucore/notes/lab3.md
+    - rCore 笔记:
+      - rcore/notes/index.md
   - 算法打卡: http://alg.haohaha.cn
   - 数学笔记: http://math.haohaha.cn
   - 英语笔记: http://eng.haohaha.cn
