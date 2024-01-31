@@ -22,6 +22,7 @@ theme:
     - navigation.top
     - navigation.indexes
     - navigation.expand
+#   - navigation.prune
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -29,6 +30,8 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    # Anchor tracking
+    - navigation.tracking
     
   language: zh
 
@@ -43,6 +46,7 @@ nav:
       - Lab3 虚拟内存管理: ucore/notes/lab3.md
     - rCore 笔记:
       - rcore/notes/index.md
+      - Rust学习笔记: rcore/notes/Rust_Learning.md
   - 算法打卡: http://alg.haohaha.cn
   - 数学笔记: http://math.haohaha.cn
   - 英语笔记: http://eng.haohaha.cn
