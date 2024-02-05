@@ -328,7 +328,7 @@ You win!
     let mut user1 = User {
         active: true,   // 用 : 来赋值
         username: String::from("someusername123"),  // 用 , 来结束一行
-        email: String::from("someone@example.com"),
+        email: String::from("someone@example.com"), // 不用 &str 是为了让每个实例都拥有其所有数据，且在整个结构体有效的时间内都有效
         sign_in_count = 1, // 最后一行别忘了
     };
     ```
@@ -351,4 +351,20 @@ You win!
 - 从已有的实例创建新实例时，只需对需要修改的字段进行修改，其余字段写`..user1`（例子） ，而且必须放在最后。
 
     - 不过被使用的实例里面的字段，被移动了，如果重新赋值就不会移动（*这里存疑*）
+
+- Unit-Like Struct：
+
+    - 可以起一个不含任何结构的结构体，然后创建实例。比如需要测试时，就可以设置实例为某种类型了。
+
+- 结构体可以存储引用，但需要使用生命周期（*LifeTimes*）
+
+### 5.2 An Example Program Using Structs
+
+- `debug` 模式打印结构体:
+    
+    ```rust
+    #[derive(Debug)]    // debug标签，放在程序最前面
+    let rect1 = ... // 省略
+    printfln!("{:?}", rect1);   // 注意打印时的固定格式： {:?}
+    ```
 
